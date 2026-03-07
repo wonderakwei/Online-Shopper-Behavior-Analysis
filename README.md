@@ -6,7 +6,7 @@
 This project analyzes online shopping session data to uncover behavioral patterns during the peak retail months of November and December. Using statistical techniques and probability modeling, it supports the marketing team in designing data-driven campaigns targeting the right customer segments.
 
 ## Significance
-Holiday shopping drives a disproportionate share of annual e-commerce revenue. Understanding how returning and new customers behave — how long they browse, what they click, and whether they convert — gives marketing teams a measurable edge when planning campaigns for high-stakes periods.
+Holiday shopping drives a disproportionate share of annual e-commerce revenue. Understanding how returning and new customers behave, how long they browse, what they click, and whether they convert — gives marketing teams a measurable edge when planning campaigns for high-stakes periods.
 
 ## What Was Done
 
